@@ -1,0 +1,21 @@
+.main-header {
+    background-image: url(../img/wall.png);
+}
+
+.main-content {
+    background-image: url(../img/cork.png);
+}
+
+.pin {
+    width: 30px;
+    height: 30px;
+    left: 50%;
+}
+
+.img-container {
+    width: 100%;
+}
+
+img {
+    display: block
+}
